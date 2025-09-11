@@ -1,0 +1,61 @@
+<Window x:Class="GAS.Views.Dialogs.RequestDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Новая заявка"
+        Height="400" Width="500"
+        WindowStartupLocation="CenterOwner"
+        ResizeMode="NoResize">
+
+    <Grid Margin="16">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Клиент -->
+        <Label Content="Клиент:" Grid.Row="0"/>
+        <ComboBox Grid.Row="0" Margin="80,0,0,8"
+                  ItemsSource="{Binding Clients}"
+                  DisplayMemberPath="FullName"
+                  SelectedValuePath="Id"
+                  SelectedValue="{Binding EditableRequest.ClientId, Mode=TwoWay}"/>
+
+        <!-- Город -->
+        <Label Content="Город:" Grid.Row="1"/>
+        <TextBox Grid.Row="1" Margin="80,0,0,8"
+                 Text="{Binding EditableRequest.City, Mode=TwoWay}"/>
+
+        <!-- Улица -->
+        <Label Content="Улица:" Grid.Row="2"/>
+        <TextBox Grid.Row="2" Margin="80,0,0,8"
+                 Text="{Binding EditableRequest.Street, Mode=TwoWay}"/>
+
+        <!-- Дом -->
+        <Label Content="Дом:" Grid.Row="3"/>
+        <TextBox Grid.Row="3" Margin="80,0,0,8"
+                 Text="{Binding EditableRequest.House, Mode=TwoWay}"/>
+
+        <!-- Суть обращения -->
+        <Label Content="Суть:" Grid.Row="4"/>
+        <TextBox Grid.Row="4" Margin="80,0,0,8"
+                 Text="{Binding EditableRequest.Essence, Mode=TwoWay}"
+                 AcceptsReturn="True" Height="60"/>
+
+        <!-- Кнопки -->
+        <StackPanel Grid.Row="6" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,12,0,0">
+            <Button Content="ОК" Width="80" Margin="0,0,8,0"
+                    Command="{Binding OkCommand}"
+                    IsDefault="True"/>
+            <Button Content="Отмена" Width="80"
+                    Command="{Binding CancelCommand}"
+                    IsCancel="True"/>
+        </StackPanel>
+    </Grid>
+</Window>
+
+

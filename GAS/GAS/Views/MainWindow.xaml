@@ -1,0 +1,21 @@
+<Window x:Class="GAS.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="clr-namespace:GAS.ViewModels"
+        Title="Учёт заявок" Height="700" Width="1100" WindowStartupLocation="CenterScreen">
+  <Window.DataContext>
+    <vm:MainViewModel/>
+  </Window.DataContext>
+    <DockPanel>
+        <Border Background="#f2f2f2" Padding="8" DockPanel.Dock="Left">
+            <StackPanel Width="200">
+                <Button Content="Клиенты" Command="{Binding ShowClientsCommand}" Margin="5"/>
+                <Button Content="Заявки" Command="{Binding ShowRequestsCommand}" Margin="5"/>
+                <Button Content="Оборудование" Command="{Binding ShowEquipmentCommand}" Margin="5"/>
+            </StackPanel>
+        </Border>
+        <ContentControl Content="{Binding CurrentView}" Margin="8"/>
+    </DockPanel>
+
+</Window>
+

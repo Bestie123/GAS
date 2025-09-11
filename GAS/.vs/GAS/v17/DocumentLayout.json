@@ -1,0 +1,530 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\misch\\source\\repos\\GAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|c:\\users\\misch\\source\\repos\\gas\\gas\\views\\dialogs\\requestdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|solutionrelative:gas\\views\\dialogs\\requestdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|c:\\users\\misch\\source\\repos\\gas\\gas\\viewmodels\\requestdialogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|solutionrelative:gas\\viewmodels\\requestdialogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|c:\\users\\misch\\source\\repos\\gas\\gas\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|solutionrelative:gas\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|c:\\users\\misch\\source\\repos\\gas\\gas\\viewmodels\\requestsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|solutionrelative:gas\\viewmodels\\requestsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|c:\\users\\misch\\source\\repos\\gas\\gas\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|solutionrelative:gas\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|c:\\users\\misch\\source\\repos\\gas\\gas\\views\\dialogs\\requestdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|solutionrelative:gas\\views\\dialogs\\requestdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|c:\\users\\misch\\source\\repos\\gas\\gas\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|solutionrelative:gas\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|c:\\users\\misch\\source\\repos\\gas\\gas\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|solutionrelative:gas\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|c:\\users\\misch\\source\\repos\\gas\\gas\\models\\apprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|solutionrelative:gas\\models\\apprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|c:\\users\\misch\\source\\repos\\gas\\gas\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|solutionrelative:gas\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|c:\\users\\misch\\source\\repos\\gas\\gas\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|solutionrelative:gas\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|c:\\users\\misch\\source\\repos\\gas\\gas\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|solutionrelative:gas\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|c:\\users\\misch\\source\\repos\\gas\\gas\\views\\requestsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|solutionrelative:gas\\views\\requestsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|c:\\users\\misch\\source\\repos\\gas\\gas\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|solutionrelative:gas\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|c:\\users\\misch\\source\\repos\\gas\\gas\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|solutionrelative:gas\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|c:\\users\\misch\\source\\repos\\gas\\gas\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|solutionrelative:gas\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|c:\\users\\misch\\source\\repos\\gas\\gas\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|solutionrelative:gas\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|c:\\users\\misch\\source\\repos\\gas\\gas\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|solutionrelative:gas\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|c:\\users\\misch\\source\\repos\\gas\\gas\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|solutionrelative:gas\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|c:\\users\\misch\\source\\repos\\gas\\gas\\views\\clientsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|solutionrelative:gas\\views\\clientsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|c:\\users\\misch\\source\\repos\\gas\\gas\\viewmodels\\clientsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|solutionrelative:gas\\viewmodels\\clientsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Migrations\\20250910163953_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GAS\\Migrations\\20250910163953_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|c:\\users\\misch\\source\\repos\\gas\\gas\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|solutionrelative:gas\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|c:\\users\\misch\\source\\repos\\gas\\gas\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|solutionrelative:gas\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|c:\\users\\misch\\source\\repos\\gas\\gas\\views\\equipmentview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|solutionrelative:gas\\views\\equipmentview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|c:\\users\\misch\\source\\repos\\gas\\gas\\views\\requestsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|solutionrelative:gas\\views\\requestsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|c:\\users\\misch\\source\\repos\\gas\\gas\\views\\registerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|solutionrelative:gas\\views\\registerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|c:\\users\\misch\\source\\repos\\gas\\gas\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|solutionrelative:gas\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|c:\\users\\misch\\source\\repos\\gas\\gas\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|solutionrelative:gas\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|c:\\users\\misch\\source\\repos\\gas\\gas\\views\\registerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2C1EF9-4FEC-460A-BF26-502AC4156FA2}|GAS\\GAS.csproj|solutionrelative:gas\\views\\registerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Services\\DataService.cs",
+              "RelativeDocumentMoniker": "GAS\\Services\\DataService.cs",
+              "ToolTip": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Services\\DataService.cs",
+              "RelativeToolTip": "GAS\\Services\\DataService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAADwv0kAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T17:46:39.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestDialogViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\ViewModels\\RequestDialogViewModel.cs",
+              "RelativeDocumentMoniker": "GAS\\ViewModels\\RequestDialogViewModel.cs",
+              "ToolTip": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\ViewModels\\RequestDialogViewModel.cs",
+              "RelativeToolTip": "GAS\\ViewModels\\RequestDialogViewModel.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAUwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:13:08.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RequestsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\ViewModels\\RequestsViewModel.cs",
+              "RelativeDocumentMoniker": "GAS\\ViewModels\\RequestsViewModel.cs",
+              "ToolTip": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\ViewModels\\RequestsViewModel.cs",
+              "RelativeToolTip": "GAS\\ViewModels\\RequestsViewModel.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:07:41.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RequestDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Views\\Dialogs\\RequestDialog.xaml",
+              "RelativeDocumentMoniker": "GAS\\Views\\Dialogs\\RequestDialog.xaml",
+              "ToolTip": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Views\\Dialogs\\RequestDialog.xaml",
+              "RelativeToolTip": "GAS\\Views\\Dialogs\\RequestDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-10T18:00:41.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RequestDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Views\\Dialogs\\RequestDialog.xaml.cs",
+              "RelativeDocumentMoniker": "GAS\\Views\\Dialogs\\RequestDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Views\\Dialogs\\RequestDialog.xaml.cs",
+              "RelativeToolTip": "GAS\\Views\\Dialogs\\RequestDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:08:13.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "GAS\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "GAS\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T02:28:36.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\App.xaml.cs",
+              "RelativeDocumentMoniker": "GAS\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\App.xaml.cs",
+              "RelativeToolTip": "GAS\\App.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T02:35:25.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "GAS\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "GAS\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAUwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T21:25:53.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppRequest.cs",
+              "DocumentMoniker": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Models\\AppRequest.cs",
+              "RelativeDocumentMoniker": "GAS\\Models\\AppRequest.cs",
+              "ToolTip": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Models\\AppRequest.cs",
+              "RelativeToolTip": "GAS\\Models\\AppRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T02:25:14.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "GAS\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "GAS\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T02:27:42.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "GAS\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "GAS\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T17:12:15.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "GAS\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Models\\Client.cs",
+              "RelativeToolTip": "GAS\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:33:23.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RequestsView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Views\\RequestsView.xaml.cs",
+              "RelativeDocumentMoniker": "GAS\\Views\\RequestsView.xaml.cs",
+              "ToolTip": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Views\\RequestsView.xaml.cs",
+              "RelativeToolTip": "GAS\\Views\\RequestsView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:21:26.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GAS\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "GAS\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T17:10:23.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "GAS\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "GAS\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-10T16:03:35.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\ViewModels\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "GAS\\ViewModels\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\ViewModels\\ViewModelBase.cs",
+              "RelativeToolTip": "GAS\\ViewModels\\ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T02:27:01.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "GAS\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\AssemblyInfo.cs",
+              "RelativeToolTip": "GAS\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T21:31:07.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Views\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "GAS\\Views\\LoginView.xaml.cs",
+              "ToolTip": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Views\\LoginView.xaml.cs",
+              "RelativeToolTip": "GAS\\Views\\LoginView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T02:32:32.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Views\\LoginView.xaml",
+              "RelativeDocumentMoniker": "GAS\\Views\\LoginView.xaml",
+              "ToolTip": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Views\\LoginView.xaml",
+              "RelativeToolTip": "GAS\\Views\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-10T02:30:52.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClientsView.xaml",
+              "DocumentMoniker": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Views\\ClientsView.xaml",
+              "RelativeDocumentMoniker": "GAS\\Views\\ClientsView.xaml",
+              "ToolTip": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Views\\ClientsView.xaml",
+              "RelativeToolTip": "GAS\\Views\\ClientsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-10T16:00:04.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ClientsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\ViewModels\\ClientsViewModel.cs",
+              "RelativeDocumentMoniker": "GAS\\ViewModels\\ClientsViewModel.cs",
+              "ToolTip": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\ViewModels\\ClientsViewModel.cs",
+              "RelativeToolTip": "GAS\\ViewModels\\ClientsViewModel.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T17:12:28.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EquipmentView.xaml",
+              "DocumentMoniker": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Views\\EquipmentView.xaml",
+              "RelativeDocumentMoniker": "GAS\\Views\\EquipmentView.xaml",
+              "ToolTip": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Views\\EquipmentView.xaml",
+              "RelativeToolTip": "GAS\\Views\\EquipmentView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-10T16:01:51.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "GAS\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Services\\AuthService.cs",
+              "RelativeToolTip": "GAS\\Services\\AuthService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAWwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T02:26:18.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250910163953_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Migrations\\20250910163953_InitialCreate.cs",
+              "RelativeDocumentMoniker": "GAS\\Migrations\\20250910163953_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Migrations\\20250910163953_InitialCreate.cs",
+              "RelativeToolTip": "GAS\\Migrations\\20250910163953_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T16:39:54.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "GAS\\Commands\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "GAS\\Commands\\RelayCommand.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAD4vxIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T02:42:56.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RequestsView.xaml",
+              "DocumentMoniker": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Views\\RequestsView.xaml",
+              "RelativeDocumentMoniker": "GAS\\Views\\RequestsView.xaml",
+              "ToolTip": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Views\\RequestsView.xaml",
+              "RelativeToolTip": "GAS\\Views\\RequestsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-10T16:01:28.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RegisterView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Views\\RegisterView.xaml.cs",
+              "RelativeDocumentMoniker": "GAS\\Views\\RegisterView.xaml.cs",
+              "ToolTip": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Views\\RegisterView.xaml.cs",
+              "RelativeToolTip": "GAS\\Views\\RegisterView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T02:34:28.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RegisterView.xaml",
+              "DocumentMoniker": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Views\\RegisterView.xaml",
+              "RelativeDocumentMoniker": "GAS\\Views\\RegisterView.xaml",
+              "ToolTip": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Views\\RegisterView.xaml",
+              "RelativeToolTip": "GAS\\Views\\RegisterView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-10T02:33:31.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Models\\User.cs",
+              "RelativeDocumentMoniker": "GAS\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\Models\\User.cs",
+              "RelativeToolTip": "GAS\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T21:24:35.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\App.xaml",
+              "RelativeDocumentMoniker": "GAS\\App.xaml",
+              "ToolTip": "C:\\Users\\misch\\source\\repos\\GAS\\GAS\\App.xaml",
+              "RelativeToolTip": "GAS\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-09T21:31:04.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
